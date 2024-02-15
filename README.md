@@ -14,7 +14,7 @@ export AWS_SECRET_ACCESS_KEY=<secret_access_key>
 ```
 
 The access key can be generated in the IAM console in the security information tab.   
-More Information on [Terraform Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+More Information on [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 
 ```bash
 #cd into project dir (in which main.cf is located)  
